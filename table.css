@@ -1,0 +1,17 @@
+.container {
+  display: table;
+}
+.row {
+  display: table-row;
+}
+.column {
+  display: table-cell;
+  padding: 0.5em;
+}
+
+
+
+
+
+
+/*--------------Ignore Below----------------*/
